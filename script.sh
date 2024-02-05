@@ -1,7 +1,7 @@
 #!/bin/bash
-# This is a script to learn shell scripting basics
-echo " this is harsha"
-var1=harsha
+
+
+
 var2=21
 
 echo $0
