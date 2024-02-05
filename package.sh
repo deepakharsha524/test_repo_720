@@ -4,7 +4,7 @@
 usage() {
   cat <<EOF
 Usage: Before running the script, Assume the AWS-ADM role of corresponding account.
-Export aws access key and secret eval $(saml2aws -a <saml_profile_name> script --shell=bash)
+
 commands:
   start [packge name]                              start  a package
   stop [pkg name]                                   stop a package
